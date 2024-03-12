@@ -1,0 +1,6 @@
+.manager_tg_id
+.vscode/launch.json
+.vscode/settings.json
+*__pycache__*
+.tg_token
+answers/*
